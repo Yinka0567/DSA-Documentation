@@ -20,3 +20,4 @@ Th primary source of Data used here is Data Sale.csv and this is an open source 
 ``` SQL
 SELECT A,B,C
 WHERE A>15
+### Result Findings
