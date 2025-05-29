@@ -16,3 +16,7 @@ Th primary source of Data used here is Data Sale.csv and this is an open source 
 - SQL Server (for Querying and Analysis)
 - Power BI (for report)
 - Ms PowerPoint (for presentation)
+### Data Analysis
+``` SQL
+SELECT A,B,C
+WHERE A>15
